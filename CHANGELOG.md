@@ -2,7 +2,9 @@
 
 [Full Changelog](https://github.com/pubnub/python/compare/v4.8.1...v5.0.0)
 
-- ⭐️️ Apart from bringing the whole SDK up to date, support for Tornado and Twisted was removed and dependiecies were simplified. 
+- ⭐️️ Support for Python 3.6, 3.7, 3.8 and 3.9  
+- Deprecated support for Tornado and Twisted and dependiecies were simplified. 
+⭐️️ If you require a Python version prior to 3.6 or Tornado / Twisted support please use the 4.8.1 version of the SDK
 
 ## [v4.8.1](https://github.com/pubnub/python/releases/tag/v4.8.1)
 
