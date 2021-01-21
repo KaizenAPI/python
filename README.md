@@ -7,6 +7,8 @@
 
 This is the official PubNub Python SDK repository.
 
+**Note:** SDK version 5.0.0 no longers supports older versions of Python, please [read changelog] (https://github.com/pubnub/python/blob/master/CHANGELOG.md) for more information.
+
 PubNub takes care of the infrastructure and APIs needed for the realtime communication layer of your application. Work on your app's logic and let PubNub handle sending and receiving data across the world in less than 100ms.
 
 ## Get keys
